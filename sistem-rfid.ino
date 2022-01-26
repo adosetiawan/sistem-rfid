@@ -17,7 +17,7 @@
 #define RST_PIN 27 // ESP32 pin GIOP27 
 #define LED_MERAH 17
 #define LED_KUNING 16
-const String API_HOST= "https://sma1contoh.sekolahkita.net/api/";
+const String API_HOST= "URL API ANDA";
 const char WIFI_SSID[] = "Nokia 6630";
 const char WIFI_PASSWORD[] = "085320059821";
 
